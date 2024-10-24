@@ -14,5 +14,5 @@ node -v # should print `v20.18.0`
 # verifies the right npm version is in the environment
 npm -v # should print `10.8.2`
 
-2. Install dependencies: npm install, npm install playwright
+2. Install dependencies: npm install, npm init -y, npm install playwright @playwright/test typescript ts-node dotenv
 3. Then, run the command: npm run test
